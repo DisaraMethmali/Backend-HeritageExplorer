@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  chatbot:
+    build: .
+    container_name: sri_lanka_chatbot
+    ports:
+      - "5000:5000"
+      - "7860:7860"
+    volumes:
+      - ./model_cache:/app/model_cache
+      - ./lora_adapter:/app/lora_adapter
+      - ./data_storage:/app/data_storage
+    environment:
+      - AUTO_LOAD=true
+      - ADMIN_USERNAME=admin
+      - ADMIN_PASSWORD=admin123
+      - SECRET_KEY=mysecretkey123
+    restart: unless-stopped

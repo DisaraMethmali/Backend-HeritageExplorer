@@ -1,0 +1,1186 @@
+{
+  "user_1": {
+    "created": "2026-02-22T12:17:36.223825",
+    "queries": [
+      {
+        "character": "king",
+        "query": "What is the Esala Perahera festival?",
+        "topic": "festival",
+        "timestamp": "2026-03-10T12:24:07.103789"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the Sacred Tooth Relic",
+        "topic": "temple",
+        "timestamp": "2026-03-10T13:07:07.204126"
+      },
+      {
+        "character": "nilame",
+        "query": "What traditional performances appear in the Esala Perahera procession?",
+        "topic": "festival",
+        "timestamp": "2026-03-10T13:07:19.791247"
+      },
+      {
+        "character": "nilame",
+        "query": "What traditional performances appear in the Esala Perahera procession?",
+        "topic": "festival",
+        "timestamp": "2026-03-14T13:00:48.841360"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-02T11:43:53.162267"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the esela",
+        "topic": "general",
+        "timestamp": "2026-05-02T12:38:27.710188"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-02T12:55:14.289673"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-02T14:47:42.459499"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-02T14:52:36.588310"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-02T20:33:54.434378"
+      },
+      {
+        "character": "king",
+        "query": "What is the imporatance of galle port",
+        "topic": "fort",
+        "timestamp": "2026-05-02T20:37:22.991348"
+      },
+      {
+        "character": "king",
+        "query": "What is the imporatance of galle port",
+        "topic": "fort",
+        "timestamp": "2026-05-02T20:38:06.351038"
+      },
+      {
+        "character": "king",
+        "query": "What is the imporatance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T20:38:29.389835"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the imporatance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T20:40:14.516774"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the imporatance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T21:05:54.914985"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the imporatance of galle",
+        "topic": "fort",
+        "timestamp": "2026-05-02T21:07:50.663506"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the imporatance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T21:23:47.245032"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the Sacred Tooth Relic",
+        "topic": "temple",
+        "timestamp": "2026-05-02T22:51:28.027590"
+      },
+      {
+        "character": "king",
+        "query": "What is the Esala Perahera festival?",
+        "topic": "festival",
+        "timestamp": "2026-05-02T22:59:04.136142"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the Sacred Tooth Relic",
+        "topic": "temple",
+        "timestamp": "2026-05-02T23:09:56.196569"
+      },
+      {
+        "character": "king",
+        "query": "What is the Esala Perahera festival?",
+        "topic": "festival",
+        "timestamp": "2026-05-02T23:10:34.170422"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the imporatance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:19:13.577180"
+      },
+      {
+        "character": "king",
+        "query": "Describe Galle Fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:21:31.512952"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the imporatance of galle",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:25:08.240645"
+      },
+      {
+        "character": "king",
+        "query": "Describe Galle Fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:49:39.875492"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the imporatance of galle",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:55:42.340993"
+      },
+      {
+        "character": "king",
+        "query": "Describe Galle Fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:56:17.637004"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the Sacred Tooth Relic",
+        "topic": "temple",
+        "timestamp": "2026-05-02T23:56:27.223734"
+      },
+      {
+        "character": "king",
+        "query": "Why did Kandy remain independent?",
+        "topic": "kingdom",
+        "timestamp": "2026-05-02T23:56:48.655767"
+      },
+      {
+        "character": "king",
+        "query": "What was Dutch rule like in Ceylon?",
+        "topic": "colonial",
+        "timestamp": "2026-05-02T23:57:24.310589"
+      },
+      {
+        "character": "king",
+        "query": "hat were the main exports during Dutch rule?",
+        "topic": "colonial",
+        "timestamp": "2026-05-02T23:58:11.449656"
+      },
+      {
+        "character": "king",
+        "query": "How did the Kingdom of Kandy maintain independence?",
+        "topic": "king",
+        "timestamp": "2026-05-03T00:00:34.407098"
+      },
+      {
+        "character": "king",
+        "query": "what is the importance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T00:02:23.286155"
+      },
+      {
+        "character": "king",
+        "query": "what is the importance of esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-03T08:54:35.645570"
+      },
+      {
+        "character": "king",
+        "query": "what are the activites can done in galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T08:55:58.354125"
+      },
+      {
+        "character": "dutch",
+        "query": "What aree the activities can be done in galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T09:01:28.091971"
+      },
+      {
+        "character": "dutch",
+        "query": "What aree the activities can be done in galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T09:06:59.033285"
+      },
+      {
+        "character": "dutch",
+        "query": "What aree the activities can be done in galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T09:24:42.739280"
+      },
+      {
+        "character": "dutch",
+        "query": "What aree the activities can be done in galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T09:28:05.689022"
+      },
+      {
+        "character": "dutch",
+        "query": "What aree the activities can be seen in esla perahra",
+        "topic": "general",
+        "timestamp": "2026-05-03T09:30:06.414719"
+      },
+      {
+        "character": "king",
+        "query": "Why did Kandy remain independent?",
+        "topic": "kingdom",
+        "timestamp": "2026-05-03T10:32:03.350515"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the Sacred Tooth Relic",
+        "topic": "temple",
+        "timestamp": "2026-05-03T10:36:40.119340"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the Sacred Tooth Relic",
+        "topic": "temple",
+        "timestamp": "2026-05-03T11:20:22.880057"
+      },
+      {
+        "character": "dutch",
+        "query": "What aree the activities can be seen in esla perahra",
+        "topic": "general",
+        "timestamp": "2026-05-03T11:26:35.622683"
+      },
+      {
+        "character": "king",
+        "query": "Why did Kandy remain independent?",
+        "topic": "kingdom",
+        "timestamp": "2026-05-03T11:31:46.622681"
+      },
+      {
+        "character": "dutch",
+        "query": "What is in esla perahra",
+        "topic": "general",
+        "timestamp": "2026-05-03T11:50:10.550696"
+      },
+      {
+        "character": "king",
+        "query": "Why did Kandy remain independent?",
+        "topic": "kingdom",
+        "timestamp": "2026-05-03T11:56:27.684628"
+      },
+      {
+        "character": "dutch",
+        "query": "What is in esla perahra",
+        "topic": "general",
+        "timestamp": "2026-05-03T12:05:53.877982"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the importance of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-05-03T12:29:42.017049"
+      },
+      {
+        "character": "dutch",
+        "query": "What is the importance of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-05-03T13:06:06.814292"
+      }
+    ],
+    "character_usage": {
+      "king": 204,
+      "nilame": 39,
+      "dutch": 39,
+      "citizen": 46
+    },
+    "topics": {
+      "temple": 84,
+      "general": 101,
+      "festival": 17,
+      "colonial": 5,
+      "king": 17,
+      "kingdom": 10,
+      "fort": 94
+    },
+    "avg_rating": 1.7037037037037035,
+    "total_interactions": 328
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772362669260": {
+    "created": "2026-03-01T16:29:14.555887",
+    "queries": [
+      {
+        "character": "king",
+        "query": "hello hello",
+        "topic": "general",
+        "timestamp": "2026-03-01T16:29:14.555926"
+      },
+      {
+        "character": "king",
+        "query": "hi",
+        "topic": "general",
+        "timestamp": "2026-03-01T16:29:23.129992"
+      }
+    ],
+    "character_usage": {
+      "king": 2
+    },
+    "topics": {
+      "general": 2
+    },
+    "avg_rating": 0,
+    "total_interactions": 2
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772363598220": {
+    "created": "2026-03-01T16:44:07.436199",
+    "queries": [
+      {
+        "character": "king",
+        "query": "hi",
+        "topic": "general",
+        "timestamp": "2026-03-01T16:44:07.436250"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "general": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "feedback_1772374745192": {
+    "created": "2026-03-01T19:49:05.764691",
+    "queries": [
+      {
+        "character": "king",
+        "query": "hi",
+        "topic": "general",
+        "timestamp": "2026-03-01T19:49:05.764706"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "general": 1
+    },
+    "avg_rating": 5.0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772378630413": {
+    "created": "2026-03-01T20:54:23.253055",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-01T20:54:23.253071"
+      },
+      {
+        "character": "king",
+        "query": "what is temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-01T20:55:15.567542"
+      }
+    ],
+    "character_usage": {
+      "king": 2
+    },
+    "topics": {
+      "temple": 2
+    },
+    "avg_rating": 0,
+    "total_interactions": 2
+  },
+  "feedback_1772378762957": {
+    "created": "2026-03-01T20:56:03.275636",
+    "queries": [
+      {
+        "character": "king",
+        "query": "hi",
+        "topic": "general",
+        "timestamp": "2026-03-01T20:56:03.275653"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "general": 1
+    },
+    "avg_rating": 5.0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772380771516": {
+    "created": "2026-03-01T21:35:20.215121",
+    "queries": [
+      {
+        "character": "king",
+        "query": "What is temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-01T21:35:20.215140"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "temple": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772381710593": {
+    "created": "2026-03-01T21:45:50.893611",
+    "queries": [
+      {
+        "character": "king",
+        "query": "What is the importance of temple of tooth",
+        "topic": "temple",
+        "timestamp": "2026-03-01T21:45:50.893651"
+      },
+      {
+        "character": "king",
+        "query": "what is the importance of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-01T21:46:11.274006"
+      }
+    ],
+    "character_usage": {
+      "king": 2
+    },
+    "topics": {
+      "temple": 2
+    },
+    "avg_rating": 0,
+    "total_interactions": 2
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772641522341": {
+    "created": "2026-03-04T22:05:21.485718",
+    "queries": [
+      {
+        "character": "king",
+        "query": "What surrounds the Sri Dalada Maligawa temple?",
+        "topic": "temple",
+        "timestamp": "2026-03-04T22:05:21.485718"
+      },
+      {
+        "character": "king",
+        "query": "How did the Tooth Relic survive destruction attempts?",
+        "topic": "temple",
+        "timestamp": "2026-03-04T22:05:47.330037"
+      },
+      {
+        "character": "king",
+        "query": "what are the surroundingd in the temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-04T22:12:13.974495"
+      }
+    ],
+    "character_usage": {
+      "king": 3
+    },
+    "topics": {
+      "temple": 3
+    },
+    "avg_rating": 0,
+    "total_interactions": 3
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772646796046": {
+    "created": "2026-03-04T23:35:48.574891",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what are the surroundingd in the temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-04T23:35:48.574891"
+      },
+      {
+        "character": "king",
+        "query": "Who s the last Indian ruler to possess the Tooth Relic",
+        "topic": "king",
+        "timestamp": "2026-03-04T23:35:49.377211"
+      },
+      {
+        "character": "king",
+        "query": "How tooth displayed?",
+        "topic": "general",
+        "timestamp": "2026-03-04T23:36:36.442156"
+      },
+      {
+        "character": "king",
+        "query": "What is eslaa perahara",
+        "topic": "general",
+        "timestamp": "2026-03-04T23:40:02.483672"
+      },
+      {
+        "character": "king",
+        "query": "what is esla perahara",
+        "topic": "general",
+        "timestamp": "2026-03-04T23:41:37.536179"
+      },
+      {
+        "character": "king",
+        "query": "what is dalada morning",
+        "topic": "temple",
+        "timestamp": "2026-03-04T23:45:07.540786"
+      },
+      {
+        "character": "king",
+        "query": "what is temple of 2-3923",
+        "topic": "temple",
+        "timestamp": "2026-03-04T23:46:42.338745"
+      }
+    ],
+    "character_usage": {
+      "king": 7
+    },
+    "topics": {
+      "temple": 3,
+      "king": 1,
+      "general": 3
+    },
+    "avg_rating": 0,
+    "total_interactions": 7
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772648810292": {
+    "created": "2026-03-04T23:59:52.281735",
+    "queries": [
+      {
+        "character": "king",
+        "query": "Why did Kandy remain independent?",
+        "topic": "kingdom",
+        "timestamp": "2026-03-04T23:59:52.281735"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "kingdom": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "Disara": {
+    "created": "2026-03-05T23:56:07.130519",
+    "queries": [
+      {
+        "character": "king",
+        "query": "who\n",
+        "topic": "general",
+        "timestamp": "2026-03-05T23:56:07.130519"
+      },
+      {
+        "character": "king",
+        "query": "what fronts two story inner shin\n",
+        "topic": "general",
+        "timestamp": "2026-03-05T23:57:16.732119"
+      },
+      {
+        "character": "king",
+        "query": "what fronts two story inner shine\n",
+        "topic": "general",
+        "timestamp": "2026-03-05T23:59:23.244360"
+      },
+      {
+        "character": "king",
+        "query": "what was rebuild after the 1998",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:03:58.921770"
+      },
+      {
+        "character": "king",
+        "query": "what was rebuild after the 1998",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:07:05.042956"
+      },
+      {
+        "character": "king",
+        "query": "give information acooring to above question\n",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:07:54.556949"
+      },
+      {
+        "character": "king",
+        "query": "what was rebuild after the 1998 in tooth relic\n",
+        "topic": "temple",
+        "timestamp": "2026-03-06T00:10:28.316004"
+      },
+      {
+        "character": "king",
+        "query": "what was rebuild after the 1998 bomb in tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-06T00:13:12.087215"
+      },
+      {
+        "character": "king",
+        "query": "What began immediately after the 1998 bombing?",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:17:01.654682"
+      },
+      {
+        "character": "king",
+        "query": "Who built the golden canopy and fence?",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:30:38.526678"
+      },
+      {
+        "character": "king",
+        "query": "Tell me about the Sacred Tooth Relic",
+        "topic": "temple",
+        "timestamp": "2026-03-07T12:10:26.220059"
+      }
+    ],
+    "character_usage": {
+      "king": 11
+    },
+    "topics": {
+      "general": 8,
+      "temple": 3
+    },
+    "avg_rating": 0,
+    "total_interactions": 11
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772735343530": {
+    "created": "2026-03-06T00:01:09.845752",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what fronts two story inner shine",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:01:09.845752"
+      },
+      {
+        "character": "king",
+        "query": "what fronts two story inner shine",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:23:18.165391"
+      }
+    ],
+    "character_usage": {
+      "king": 2
+    },
+    "topics": {
+      "general": 2
+    },
+    "avg_rating": 0,
+    "total_interactions": 2
+  },
+  "feedback_1772737026719": {
+    "created": "2026-03-06T00:27:07.280272",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what was rebuild after the 1998",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:27:07.280272"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "general": 1
+    },
+    "avg_rating": 4.0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772736966456": {
+    "created": "2026-03-06T00:29:30.282981",
+    "queries": [
+      {
+        "character": "king",
+        "query": "Who built the golden canopy and fence?",
+        "topic": "general",
+        "timestamp": "2026-03-06T00:29:30.282981"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "general": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772868206238": {
+    "created": "2026-03-07T12:55:38.469845",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is temple of tooth",
+        "topic": "temple",
+        "timestamp": "2026-03-07T12:55:38.469845"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "temple": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772875946929": {
+    "created": "2026-03-07T15:07:06.331467",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the importance of temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-07T15:07:06.331467"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "temple": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "feedback_1772877101092": {
+    "created": "2026-03-07T15:21:40.516313",
+    "queries": [
+      {
+        "character": "king",
+        "query": "hi",
+        "topic": "general",
+        "timestamp": "2026-03-07T15:21:40.516313"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "general": 1
+    },
+    "avg_rating": 4.0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1772888403802": {
+    "created": "2026-03-07T18:34:42.334660",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-07T18:34:42.334660"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "temple": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "king_user_1": {
+    "created": "2026-03-09T12:33:14.960242",
+    "queries": [
+      {
+        "character": "king",
+        "query": "What is Temple of Truth?",
+        "topic": "temple",
+        "timestamp": "2026-03-09T12:33:14.960242"
+      },
+      {
+        "character": "king",
+        "query": "Who would've killed it?",
+        "topic": "general",
+        "timestamp": "2026-03-09T23:14:44.653396"
+      },
+      {
+        "character": "king",
+        "query": "Who retrieved the tooth from Buddha's funeral?",
+        "topic": "general",
+        "timestamp": "2026-03-09T23:17:33.755384"
+      },
+      {
+        "character": "king",
+        "query": "Who retrieved the truth from Buddha's funeral?",
+        "topic": "general",
+        "timestamp": "2026-03-09T23:43:44.231615"
+      },
+      {
+        "character": "king",
+        "query": "Who retrieved the tooth from Buddha's temple?",
+        "topic": "temple",
+        "timestamp": "2026-03-09T23:46:57.322623"
+      },
+      {
+        "character": "king",
+        "query": "Do people with you, Portuguese, destroy the truth, elect?",
+        "topic": "colonial",
+        "timestamp": "2026-03-09T23:50:43.540482"
+      },
+      {
+        "character": "king",
+        "query": "Where was the tooth enriched in Kalinga?",
+        "topic": "general",
+        "timestamp": "2026-03-09T23:54:49.695139"
+      }
+    ],
+    "character_usage": {
+      "king": 7
+    },
+    "topics": {
+      "temple": 2,
+      "general": 4,
+      "colonial": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 7
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1773065135542": {
+    "created": "2026-03-09T19:36:06.375659",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the importance of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-09T19:36:06.375659"
+      },
+      {
+        "character": "dutch",
+        "query": "what is the important of galle port",
+        "topic": "fort",
+        "timestamp": "2026-03-09T19:36:24.143178"
+      }
+    ],
+    "character_usage": {
+      "king": 1,
+      "dutch": 1
+    },
+    "topics": {
+      "temple": 1,
+      "fort": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 2
+  },
+  "feedback_1773065254291": {
+    "created": "2026-03-09T19:37:34.415163",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the important of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-09T19:37:34.415163"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "temple": 1
+    },
+    "avg_rating": 5.0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1773120638094": {
+    "created": "2026-03-10T11:01:29.722671",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-10T11:01:29.722671"
+      },
+      {
+        "character": "king",
+        "query": "what us temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-03-10T11:03:47.156681"
+      }
+    ],
+    "character_usage": {
+      "king": 2
+    },
+    "topics": {
+      "temple": 2
+    },
+    "avg_rating": 0,
+    "total_interactions": 2
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777740766703": {
+    "created": "2026-05-02T22:24:38.334384",
+    "queries": [
+      {
+        "character": "citizen",
+        "query": "what is the galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T22:24:38.334384"
+      },
+      {
+        "character": "citizen",
+        "query": "what is the imporatance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T22:43:57.370917"
+      },
+      {
+        "character": "king",
+        "query": "what is temple of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-05-02T22:43:57.851994"
+      }
+    ],
+    "character_usage": {
+      "citizen": 2,
+      "king": 1
+    },
+    "topics": {
+      "fort": 2,
+      "temple": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 3
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777742472568": {
+    "created": "2026-05-02T23:25:51.671174",
+    "queries": [
+      {
+        "character": "dutch",
+        "query": "what is galee",
+        "topic": "general",
+        "timestamp": "2026-05-02T23:25:51.672171"
+      },
+      {
+        "character": "citizen",
+        "query": "heooo",
+        "topic": "general",
+        "timestamp": "2026-05-02T23:46:24.782813"
+      },
+      {
+        "character": "dutch",
+        "query": "what is galle",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:51:35.935031"
+      },
+      {
+        "character": "dutch",
+        "query": "wht is galle",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:57:07.664504"
+      },
+      {
+        "character": "dutch",
+        "query": "what is galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-02T23:57:40.122779"
+      },
+      {
+        "character": "dutch",
+        "query": "what is the importance of galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T00:03:21.053949"
+      }
+    ],
+    "character_usage": {
+      "dutch": 5,
+      "citizen": 1
+    },
+    "topics": {
+      "general": 2,
+      "fort": 4
+    },
+    "avg_rating": 0,
+    "total_interactions": 6
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777787124690": {
+    "created": "2026-05-03T11:23:29.147474",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-03T11:23:29.147474"
+      },
+      {
+        "character": "king",
+        "query": "what is galle fort",
+        "topic": "fort",
+        "timestamp": "2026-05-03T11:28:16.236626"
+      },
+      {
+        "character": "king",
+        "query": "what is esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-03T11:51:39.370405"
+      },
+      {
+        "character": "king",
+        "query": "what is esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-03T11:52:58.775216"
+      }
+    ],
+    "character_usage": {
+      "king": 4
+    },
+    "topics": {
+      "general": 3,
+      "fort": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 4
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777789762417": {
+    "created": "2026-05-03T12:02:15.175185",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is esela perahara",
+        "topic": "general",
+        "timestamp": "2026-05-03T12:02:15.175185"
+      },
+      {
+        "character": "king",
+        "query": "what is esela perhara",
+        "topic": "general",
+        "timestamp": "2026-05-03T12:07:24.561963"
+      }
+    ],
+    "character_usage": {
+      "king": 2
+    },
+    "topics": {
+      "general": 2
+    },
+    "avg_rating": 0,
+    "total_interactions": 2
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777790356253": {
+    "created": "2026-05-03T12:10:53.328919",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the importance if tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-05-03T12:10:53.328919"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "temple": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777790632605": {
+    "created": "2026-05-03T12:16:17.805153",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the importance of tooth",
+        "topic": "general",
+        "timestamp": "2026-05-03T12:16:17.805153"
+      }
+    ],
+    "character_usage": {
+      "king": 1
+    },
+    "topics": {
+      "general": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 1
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777791007104": {
+    "created": "2026-05-03T12:22:32.124578",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the temple of tooth made off",
+        "topic": "temple",
+        "timestamp": "2026-05-03T12:22:32.124578"
+      },
+      {
+        "character": "citizen",
+        "query": "what are the importance of galle",
+        "topic": "fort",
+        "timestamp": "2026-05-03T12:23:24.882931"
+      },
+      {
+        "character": "king",
+        "query": "what is the importance of temple of tootg relic",
+        "topic": "temple",
+        "timestamp": "2026-05-03T12:27:10.225683"
+      },
+      {
+        "character": "king",
+        "query": "what is the importance of tooth relic",
+        "topic": "temple",
+        "timestamp": "2026-05-03T12:28:08.472574"
+      }
+    ],
+    "character_usage": {
+      "king": 3,
+      "citizen": 1
+    },
+    "topics": {
+      "temple": 3,
+      "fort": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 4
+  },
+  "e74236ae-49af-4f40-b179-1558a19d90b9_1777792820844": {
+    "created": "2026-05-03T12:52:34.501282",
+    "queries": [
+      {
+        "character": "king",
+        "query": "what is the importance of tootg relic in kandy",
+        "topic": "kingdom",
+        "timestamp": "2026-05-03T12:52:34.501282"
+      },
+      {
+        "character": "king",
+        "query": "whatis the atadage",
+        "topic": "general",
+        "timestamp": "2026-05-03T12:54:29.521971"
+      },
+      {
+        "character": "king",
+        "query": "who is the king parakramabahu",
+        "topic": "king",
+        "timestamp": "2026-05-03T13:04:36.543053"
+      }
+    ],
+    "character_usage": {
+      "king": 3
+    },
+    "topics": {
+      "kingdom": 1,
+      "general": 1,
+      "king": 1
+    },
+    "avg_rating": 0,
+    "total_interactions": 3
+  }
+}
